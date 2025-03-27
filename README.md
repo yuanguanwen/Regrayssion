@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# Welcome to Regrayssion!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is our code developed for fitting graybody factors with Symbolic Regression. 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+More details please see the ref: Guan-Wen Yuan, Marco Calza, Davide Pedrotti, "Regrayssion: Symbolic Modeling of Gray-Body Factors".
+
+If you have any questions, please contact us by email.
