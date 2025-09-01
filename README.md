@@ -6,7 +6,7 @@ Symbolic Regression (SR) is a machine learning approach that explores the space 
 
 More details please see the ref: Guan-Wen Yuan, Marco Calza, Davide Pedrotti, "Regrayssion: Machine Learning-Based Analytical Expressions for Gray-Body Factors and Application to Primordial Black Holes".
 
-If you have any questions, please contact us by email: 
-guanwen.yuan@unitn.it; 
-marco.calza@unitn.it; 
+If you have any questions, please contact us by email: \\
+guanwen.yuan@unitn.it; \\
+marco.calza@unitn.it; \\
 davide.pedrotti-1@unitn.it
